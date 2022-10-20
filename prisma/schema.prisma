@@ -16,4 +16,5 @@ model DayData {
   cases     Int
   testing   Int
   outcomes  Int
+  deaths  Int
 }
